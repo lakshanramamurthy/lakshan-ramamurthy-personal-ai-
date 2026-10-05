@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis",
+  "description": "Executive AI Workspace & Multimodal Chief of Staff",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
